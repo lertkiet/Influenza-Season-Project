@@ -7,10 +7,10 @@ To help a medical staffing agency that provides temporary workers to clinics and
 #### Motivation: 
 The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff. 
 
-Objective:
+#### Objective:
 Determine when to send staff, and how many, to each state. 
 
-Scope: 
+#### Scope: 
 The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season. 
 
 ## Data Set
@@ -30,34 +30,34 @@ The final presentation will feature visualizations created in Tableau Public lin
 https://public.tableau.com/app/profile/lertkiet.lertchayantee/viz/2_9StorytellingwithDataPresentations_17257005384360/Story
 
 ## Recommendations
-Staffing Based on Risk: 
+#### Staffing Based on Risk: 
 Clinics should allocate additional staff and resources to individuals aged 55 and older, particularly during the first and fourth quarters, when the risk of influenza-related deaths is highest.
 
-Geographic Focus: 
+#### Geographic Focus: 
 Health systems in the ten most affected states (as identified in our analysis) should receive extra resources and staff, especially during flu season, to help reduce mortality rates.
 
-Continuous Monitoring: 
+#### Continuous Monitoring: 
 The eight states predicted to experience rising influenza-related deaths post-2017 should be continuously monitored to ensure their preparedness, as influenza death rates tend to peak during the fall and winter seasons.
 
-Vaccination and Education: 
+#### Vaccination and Education: 
 Efforts to strengthen vaccination campaigns for high-risk groups should be prioritized, with a focus on educating the public—particularly in states most heavily affected by influenza.
 
-Data-Driven Planning: 
+#### Data-Driven Planning: 
 Predictive models should be used to plan staffing and resource allocation in advance of peak influenza season, ensuring that clinics are adequately prepared to handle the increased demand.
 
 ## Summary
-Population: 
+#### Population: 
 The high-risk population consists of individuals over the age of 55, while the low-risk population includes those aged 0 to 44 years.
 
-Population Size and Deaths: 
+#### Population Size and Deaths: 
 Larger states tend to experience higher influenza death rates, primarily due to their larger population sizes, which contribute to a greater number of cases.
 
-Geographic Concentration: 
+#### Geographic Concentration: 
 Approximately 50% of influenza-related deaths occur in the 10 states with the largest populations. These states—California, New York, Texas, Pennsylvania, Florida, Illinois, Ohio, North Carolina, Michigan, and Tennessee—require targeted resource planning to effectively manage and reduce mortality during flu season.
 
-Seasonal Peaks: 
+#### Seasonal Peaks: 
 Influenza deaths typically peak during the fall and winter months, highlighting the need for heightened preparedness and response during these seasons.
 
-Future Trends: 
+#### Future Trends: 
 Eight states are projected to experience a rise in influenza-related deaths after 2017, while the rest are expected to see stable or unchanged death rates. This indicates the importance of continued monitoring and proactive measures in these high-risk areas.
 
