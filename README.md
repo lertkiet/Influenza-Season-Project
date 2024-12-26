@@ -30,12 +30,16 @@ https://public.tableau.com/app/profile/lertkiet.lertchayantee/viz/2_9Storytellin
 ## Recommendations
 Staffing Based on Risk: 
 Clinics should allocate additional staff and resources to individuals aged 55 and older, particularly during the first and fourth quarters, when the risk of influenza-related deaths is highest.
+
 Geographic Focus: 
 Health systems in the ten most affected states (as identified in our analysis) should receive extra resources and staff, especially during flu season, to help reduce mortality rates.
+
 Continuous Monitoring: 
 The eight states predicted to experience rising influenza-related deaths post-2017 should be continuously monitored to ensure their preparedness, as influenza death rates tend to peak during the fall and winter seasons.
+
 Vaccination and Education: 
 Efforts to strengthen vaccination campaigns for high-risk groups should be prioritized, with a focus on educating the public—particularly in states most heavily affected by influenza.
+
 Data-Driven Planning: 
 Predictive models should be used to plan staffing and resource allocation in advance of peak influenza season, ensuring that clinics are adequately prepared to handle the increased demand.
 
