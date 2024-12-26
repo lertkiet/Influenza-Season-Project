@@ -4,34 +4,54 @@
 To help a medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis. The analysis will help plan for influenza season, a time when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to proactively plan for staffing needs across the country. 
 
 ## Project Overview
-Motivation: The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary 
-staff. 
-● Objective:
- Determine when to send staff, and how many, to each state. 
-● Scope: The agency covers all hospitals in each of the 50 states of the United States, and 
-the project will plan for the upcoming influenza season. 
-## Project Tasks & Deliverables   
-1. Examine the structure and attributes of the video game sales dataset.
-2. Clean the dataset to resolve inconsistencies and ensure accuracy.
-3. Process and analyze sales data to uncover trends and patterns.
-4. Tackle hypothetical challenges for GameCo using suitable analytical techniques.
-5. Perform descriptive analysis to assess data distribution.
-6. Generate insights to guide marketing budget allocation.
-7. Design visualizations to illustrate sales patterns and trends.
-8. Craft a narrative presentation to effectively communicate analytical insights.
+Motivation: 
+The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff. 
+Objective:
+Determine when to send staff, and how many, to each state. 
+Scope: 
+The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season. 
 
 ## Data Set
-The dataset covers historical sales of video games from 1980 to 2016, sourced from VGChartz. Important points about the dataset
-1. Tracks total units of games sold (in millions).
-2. Spans various platforms, genres, and publishing studios.
-3. Data includes games that sold more than 10,000 copies.
+The following data sets covering influenza in the United States will be used during the project: 
+1. Influenza deaths by geography, time, age, and gender 
+Source: CDC 
+2. Population data by geography 
+Source: US Census Bureau  
+NOTE: keep in mind that these numbers are estimates, hence the sum of the numbers from the different age groups may not sum up to the total in the first columns.
 
 ## Tool
-Microsoft Excel (Analysis)
+1. Microsoft Excel (Analysis)
+2. Tableau (Analysis and Visualizations)
 
 ## Visualizations
-The final presentation will feature visualizations created in Microsoft Excel, highlighting key insights gained from the data analysis process.
+The final presentation will feature visualizations created in Tableau Public link below.
+https://public.tableau.com/app/profile/lertkiet.lertchayantee/viz/2_9StorytellingwithDataPresentations_17257005384360/Story
+
+## Recommendations
+Staffing Based on Risk: 
+Clinics should allocate additional staff and resources to individuals aged 55 and older, particularly during the first and fourth quarters, when the risk of influenza-related deaths is highest.
+Geographic Focus: 
+Health systems in the ten most affected states (as identified in our analysis) should receive extra resources and staff, especially during flu season, to help reduce mortality rates.
+Continuous Monitoring: 
+The eight states predicted to experience rising influenza-related deaths post-2017 should be continuously monitored to ensure their preparedness, as influenza death rates tend to peak during the fall and winter seasons.
+Vaccination and Education: 
+Efforts to strengthen vaccination campaigns for high-risk groups should be prioritized, with a focus on educating the public—particularly in states most heavily affected by influenza.
+Data-Driven Planning: 
+Predictive models should be used to plan staffing and resource allocation in advance of peak influenza season, ensuring that clinics are adequately prepared to handle the increased demand.
 
 ## Summary
-The Video Game Popularity Data Analysis Project focuses on using data-driven insights to shape GameCo's game development strategies. By conducting data exploration, cleaning, analysis, and visualization, the project delivers actionable insights into sales trends and market dynamics. Through analytical techniques and visual storytelling, it highlights the critical role of data analytics in driving strategic decisions within the gaming industry.
+Population: 
+The high-risk population consists of individuals over the age of 55, while the low-risk population includes those aged 0 to 44 years.
+
+Population Size and Deaths: 
+Larger states tend to experience higher influenza death rates, primarily due to their larger population sizes, which contribute to a greater number of cases.
+
+Geographic Concentration: 
+Approximately 50% of influenza-related deaths occur in the 10 states with the largest populations. These states—California, New York, Texas, Pennsylvania, Florida, Illinois, Ohio, North Carolina, Michigan, and Tennessee—require targeted resource planning to effectively manage and reduce mortality during flu season.
+
+Seasonal Peaks: 
+Influenza deaths typically peak during the fall and winter months, highlighting the need for heightened preparedness and response during these seasons.
+
+Future Trends: 
+Eight states are projected to experience a rise in influenza-related deaths after 2017, while the rest are expected to see stable or unchanged death rates. This indicates the importance of continued monitoring and proactive measures in these high-risk areas.
 
